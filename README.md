@@ -1,0 +1,2 @@
+# Stores
+Draft stores
